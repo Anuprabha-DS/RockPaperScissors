@@ -101,7 +101,7 @@ h2 {
 
 #display-result{
     font-size: clamp(1.2rem, 4vw, 2rem);
-    color: #cd1111;
+    color: #fff;
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
 }
 
